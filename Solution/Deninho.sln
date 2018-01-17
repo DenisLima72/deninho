@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "OnePage", "..\OnePage", "{09A6A082-6C66-48A0-8D28-2A444CF5BE4B}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_58001"
+		Debug.AspNetCompiler.PhysicalPath = "..\OnePage\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58001\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_58001"
+		Release.AspNetCompiler.PhysicalPath = "..\OnePage\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58001\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "58001"
+		SlnRelativePath = "..\OnePage\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09A6A082-6C66-48A0-8D28-2A444CF5BE4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09A6A082-6C66-48A0-8D28-2A444CF5BE4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09A6A082-6C66-48A0-8D28-2A444CF5BE4B}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{09A6A082-6C66-48A0-8D28-2A444CF5BE4B}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://popnet.visualstudio.com/
+		SccLocalPath0 = .
+		SccWebProject1 = true
+		SccProjectUniqueName1 = ..\\OnePage
+		SccProjectName1 = ../OnePage
+		SccLocalPath1 = ..\\OnePage
+		SccProjectEnlistmentChoice1 = 2
+	EndGlobalSection
+EndGlobal

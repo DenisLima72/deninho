@@ -1,0 +1,3 @@
+C:\_Fontes\Deninho\DeninhoArcade\obj\Debug\DeninhoArcade.vbprojResolveAssemblyReference.cache
+C:\_Fontes\Deninho\DeninhoArcade\obj\Debug\DeninhoArcade.Resources.resources
+C:\_Fontes\Deninho\DeninhoArcade\obj\Debug\DeninhoArcade.vbproj.GenerateResource.Cache

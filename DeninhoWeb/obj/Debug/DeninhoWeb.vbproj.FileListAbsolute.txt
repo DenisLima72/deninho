@@ -1,0 +1,2 @@
+C:\_Fontes\Deninho\DeninhoWeb\obj\Debug\DeninhoWeb.Resources.resources
+C:\_Fontes\Deninho\DeninhoWeb\obj\Debug\DeninhoWeb.vbproj.GenerateResource.Cache
